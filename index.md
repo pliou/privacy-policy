@@ -1,6 +1,6 @@
 # Privacy Policy for PPL Extensions (Scored Search & Order Metrics)
 
-**Last updated:** 15.08.2025
+**Last updated:** 30.03.2026
 
 This Privacy Policy describes how Pawel Pliousnin Digital Solutions ("we", "our", or "us") handles information in relation to the following extensions:
 
