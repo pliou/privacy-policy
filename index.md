@@ -2,7 +2,7 @@
 
 **Last updated:** 15.08.2025
 
-This Privacy Policy describes how PPL Solutions Software ("we", "our", or "us") handles information in relation to the following extensions:
+This Privacy Policy describes how Pawel Pliousnin Digital Solutions ("we", "our", or "us") handles information in relation to the following extensions:
 
 - Scored Search for Magento / Adobe Commerce  
 - Order Metrics for Magento / Adobe Commerce  
@@ -35,8 +35,9 @@ We do **not**:
 
 ## Data Storage
 
-- Our extensions do **not** store personal data externally.  
-- All data remains within the Magento / Adobe Commerce installation unless explicitly configured otherwise by the merchant.
+- Our extensions do **not** store personal data.  
+- All data processing occurs within the Magento / Adobe Commerce system and is controlled by the merchant.
+- Our extensions do not create independent databases, external storage, or remote data persistence.
 
 ## Hosting & Server Logs
 
