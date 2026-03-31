@@ -4,8 +4,8 @@
 
 This Privacy Policy describes how Pawel Pliousnin Digital Solutions ("we", "our", or "us") handles information in relation to the following extensions:
 
-- Scored Search for Magento / Adobe Commerce  
-- Order Metrics for Magento / Adobe Commerce  
+- PPL Scored Search for Magento / Adobe Commerce  
+- PPL Order Metrics for Magento / Adobe Commerce  
 
 ## General Statement
 
